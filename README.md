@@ -1,7 +1,14 @@
 ##### Hello, I'am João Renan, Computer Engineering student from Brazil #####
-
-Here are some ideas to get you started:
-
+    ========
+    |      |
+    |      |
+    |      |
+    |      |
+    --------
+    \       /     
+      \   /
+        = 
+        
 - 🔭 Working with Computer Graphs and Software Development
 - 📘 Learning C++
 - 😉 He/Him
