@@ -11,10 +11,10 @@
 
 
         
-- 🔭 Working with Computer Graphs and Software Development
-- 📘 Learning C++
+- 🔭 Working With Data Science and Artifical Intelligence
+- 📘 Learning Data Visualization
 - 😉 He/Him
-- 🖼 Love everything related to art
+- 🖼 Love everything related to Math, Art, Brain and Science
 
 <div align="center">
   <a href="https://github.com/loowdy">
