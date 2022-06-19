@@ -13,8 +13,7 @@
         
 - 🔭 Working With Data Science and Artifical Intelligence
 - 📘 Learning Data Visualization
-- 😉 He/Him
-- 🖼 Love everything related to Math, Art, Brain and Science
+- 🖼 Love everything related to Math, Art, Physics and Science
 
 <div align="center">
   <a href="https://github.com/loowdy">
