@@ -12,8 +12,8 @@
 
         
 - 🔭 Computer Lover S2
-- 📘 Learning Data Visualization
-- 🖼 Love everything related to Math, Art, Physics and Science
+- 📘 Learning DevOps
+- 🖼 Love everything related to Math, Computers, Art and Music
 
 <div align="center">
   <a href="https://github.com/loowdy">
