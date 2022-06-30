@@ -11,7 +11,7 @@
 
 
         
-- 🔭 Working With Data Science and Artifical Intelligence
+- 🔭 Computer Lover S2
 - 📘 Learning Data Visualization
 - 🖼 Love everything related to Math, Art, Physics and Science
 
