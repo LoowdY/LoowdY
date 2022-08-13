@@ -12,7 +12,7 @@
 
         
 - 🔭 Computer Lover S2
-- 📘 Learning Artificial Intelligence
+- 📘 Learning Software Engineering
 - 🖼 Love everything related to Math, Computers, Art and Music
 
 <div align="center">
