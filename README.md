@@ -12,7 +12,7 @@
 
         
 - 🔭 Computer Lover S2;
-- 📘 Learning Software Engineering
+- 📘 Learning Cybersecurity 
 - 🖼 Love everything related to Math, Computers, Art and Music.
 
 <div align="center">
