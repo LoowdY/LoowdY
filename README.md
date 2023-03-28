@@ -1,18 +1,10 @@
 ##### Hello, I'am João Renan, Computer Engineering student from Brazil #####   
-    ========
-    |      |
-    |      |
-    |      |
-    |      |
-    --------                                                                
-    \       /     
-      \   /
-        = 
+  
 
 
         
 - 🔭 Computer Lover S2;
-- 📘 Learning Cybersecurity, Software Engineering and Programming
+- 📘 Learning how to program, configurate networks....and also learning cybersecurity and bioinformatics
 - 🖼 Love everything related to Math, Computers, Art and Music.
 
 <div align="center">
