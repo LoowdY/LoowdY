@@ -1,4 +1,4 @@
-##### Hello, I'am João Renan, Computer Engineering student from Brazil #####   
+##### Hello, I'am João Renan, Computer Science student from Brazil #####   
   
 
 
