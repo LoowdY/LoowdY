@@ -4,7 +4,7 @@
 
         
 - 🔭 Computer Lover S2;
-- 📘 Learning how to program, configurate networks....and also learning cybersecurity and bioinformatics
+- 📘 Learning how to program, configurate networks....and also learning cybersecurity
 - 🖼 Love everything related to Math, Computers, Art and Music.
 
 <div align="center">
