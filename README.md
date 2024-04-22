@@ -1,10 +1,7 @@
 ##### Hello, I'am João Renan, Computer Science student from Brazil #####   
   
-
-
         
 - 🔭 Computer Lover S2;
-- 📘 Learning how to program, Analyse data and program AI models
 - 🖼 Love everything related to Math, Computers, Art and Music.
 
 
