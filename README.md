@@ -1,4 +1,4 @@
-##### Hello, I'am João Renan, Computer Science student from Brazil #####   
+##### Hello, I'am João Renan, Cybersecurity Analyst from Brazil #####   
   
         
 - 🔭 Computer Lover S2;
