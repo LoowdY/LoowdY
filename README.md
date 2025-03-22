@@ -24,6 +24,7 @@
 - 🎓 Passionate about **Machine Learning**, **Regression Models**, and **Predictive Analysis**
 - 🎨 Enthusiast of **Mathematics**, **Computers**, **Digital Art**, and **Music**
 - 🚀 Always eager to learn and explore new technologies
+- 💼 Explore my [repositories](https://github.com/LoowdY?tab=repositories) to see the projects I've been working on
 
 ---
 
@@ -68,15 +69,6 @@
 
 ---
 
-**💼 Projects**
-
-- **[Project Name](https://github.com/LoowdY/project-name)**: Brief description of the project.
-- **[Another Project](https://github.com/LoowdY/another-project)**: Brief description of this project.
-
-*Explore more in my [repositories](https://github.com/LoowdY?tab=repositories).*
-
----
-
 **📫 Connect with Me**
 
 <p align="center">
@@ -96,7 +88,3 @@
 **⚡ Fun Fact**
 
 - 🎵 I often find parallels between coding and composing music; both require creativity and structure.
-
----
-
-
