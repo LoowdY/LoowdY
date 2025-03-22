@@ -1,18 +1,29 @@
-<h1 align="center">Hello, I'm João Renan — Data Scientist from Brazil 🇧🇷</h1>
+<h1 align="center">Hi there, I'm João Renan! 👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </p>
 
+<p align="center">
+  <a href="https://github.com/LoowdY">
+    <img src="https://img.shields.io/github/followers/LoowdY?label=Follow%20Me&style=social" alt="GitHub Followers">
+  </a>
+  <a href="https://www.linkedin.com/in/joão-renan-santanna-lopes-b4729a1b4/">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:jrenanlopes@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
+
 ---
 
-**🔭 About Me**
+**👨‍💻 About Me**
 
-- 💻 Tech enthusiast passionate about solving real-world problems with data and creativity.
-- 🤖 Interested in **Machine Learning**, especially **regression models**, **predictive analysis**, and **statistical modeling**.
-- 📊 Enjoy building end-to-end data projects — from data wrangling to model deployment.
-- 🎨 Also into **math**, **computers**, **digital art**, and **music**.
-- 🚀 Explore my [repositories](https://github.com/yourusername?tab=repositories) to check out personal projects in automation, data visualization, and ML models!
+- 🌐 Data Scientist from Brazil 🇧🇷
+- 🎓 Passionate about **Machine Learning**, **Regression Models**, and **Predictive Analysis**
+- 🎨 Enthusiast of **Mathematics**, **Computers**, **Digital Art**, and **Music**
+- 🚀 Always eager to learn and explore new technologies
 
 ---
 
@@ -32,12 +43,37 @@
 
 ---
 
-**📊 GitHub Stats**
+**📈 GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LoowdY&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LoowdY&theme=radical" alt="GitHub Streak" width="400"/>
 </p>
+
+---
+
+**🏆 GitHub Trophies**
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LoowdY&theme=radical&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
+</p>
+
+---
+
+**📊 Top Languages**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoowdY&layout=compact&theme=radical" alt="Top Languages" width="400"/>
+</p>
+
+---
+
+**💼 Projects**
+
+- **[Project Name](https://github.com/LoowdY/project-name)**: Brief description of the project.
+- **[Another Project](https://github.com/LoowdY/another-project)**: Brief description of this project.
+
+*Explore more in my [repositories](https://github.com/LoowdY?tab=repositories).*
 
 ---
 
@@ -63,5 +99,4 @@
 
 ---
 
-*Note: Remember to replace `yourusername` with your actual GitHub username in the links to ensure they point to your profile.*
 
