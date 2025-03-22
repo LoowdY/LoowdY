@@ -1,4 +1,4 @@
-##### Hello, I'am João Renan, Cybersecurity Analyst from Brazil #####   
+##### Hello, I'am João Renan, Data Scientist from Brazil #####   
   
         
 - 🔭 Computer Lover S2;
