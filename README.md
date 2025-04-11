@@ -20,9 +20,9 @@
 
 **👨‍💻 About Me**
 
-- 🌐 Developer from Brazil 🇧🇷
-- 🎓 Passionate about **APIs**, **SaaS**, and **Machine Learning/Deep Learning**
-- 🎨 Enthusiast of **Mathematics**, **Computers**, **Digital Art**, and **Music**
+- 🌐 Cybersecurity Analyst from Brazil 🇧🇷
+- 🎓 Passionate about **hacking**, **Defensive Security**, and **APTs**
+- 🎨 Enthusiast of **Computers**, **Hacking**, **Digital Art**, and **Music**
 - 🚀 Always eager to learn and explore new technologies
 - 💼 Explore my [repositories](https://github.com/LoowdY?tab=repositories) to see the projects I've been working on
 
