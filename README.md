@@ -18,13 +18,16 @@
 
 ---
 
-**👨‍💻 About Me**
+**📊 About Me**
 
-- 🌐 Cybersecurity Analyst from Brazil 🇧🇷
-- 🎓 Passionate about **hacking**, **Defensive Security**, and **APTs**
-- 🎨 Enthusiast of **Computers**, **Hacking**, **Digital Art**, and **Music**
-- 🚀 Always eager to learn and explore new technologies
+- 🇧🇷 Data Scientist from Brazil  
+- 🎓 Passionate about **Machine Learning**, **Data Analysis**, and **AI applications**
+- 🧠 Interested in **Statistical Modeling**, **Time Series Forecasting**, and **Deep Learning**
+- 🛠️ Skilled in tools such as **Python**, **Pandas**, **Scikit-Learn**, **TensorFlow**, and **Power BI**
+- 📈 Enthusiast of **Data Visualization**, **Big Data**, and **Applied Mathematics**
+- 🚀 Always exploring new techniques to extract insights from data and drive decision-making
 - 💼 Explore my [repositories](https://github.com/LoowdY?tab=repositories) to see the projects I've been working on
+
 
 ---
 
