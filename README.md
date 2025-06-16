@@ -20,7 +20,7 @@
 
 ### **💻 Sobre Mim**
 
-Sou um engenheiro de software com sólida experiência em **Java**, **Python**, **HTML**, **CSS**, **JavaScript**, **PostgreSQL**, **MongoDB** e **SQL**. Desenvolvo soluções robustas e seguras para órgãos públicos e empresas privadas, aplicando as melhores práticas de microsserviços e inteligência artificial. Meu objetivo é elevar a eficiência operacional e apoiar a tomada de decisões estratégicas através de tecnologia inovadora.
+Sou um engenheiro de software com maiores experiência em **Java**, **Python**, **HTML**, **CSS**, **JavaScript**, **PostgreSQL**, **MongoDB** e **SQL**. Desenvolvo soluções robustas e seguras para órgãos públicos e empresas privadas, aplicando as melhores práticas de microsserviços e inteligência artificial. Meu objetivo é elevar a eficiência operacional e apoiar a tomada de decisões estratégicas através de tecnologia inovadora.
 
 ---
 
