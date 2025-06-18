@@ -18,7 +18,7 @@
 
 ## 💼 Sobre Mim
 
-Sou **Cientista de Dados** com formação em Ciência da Computação e experiência prática em projetos de **Business Intelligence**, **Machine Learning** e **Engenharia de Dados**. Tenho atuado na coleta, limpeza e análise de grandes volumes de dados para órgãos públicos e empresas privadas, desenvolvendo modelos preditivos e visualizações interativas que orientam decisões estratégicas.
+Sou **Cientista de Dados** com formação em Ciência da Computação e experiência prática em projetos de **Business Intelligence** e **Machine Learning**. Tenho atuado na coleta, limpeza e análise de grandes volumes de dados para órgãos públicos e empresas privadas, desenvolvendo modelos preditivos e visualizações interativas que orientam decisões estratégicas.
 
 ---
 
