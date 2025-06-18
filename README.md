@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/2kYQJgzFoUdx2X6O9s/giphy.gif" width="300" alt="Data Science GIF"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Data Science GIF"/>
 </p>
 
 <p align="center">
