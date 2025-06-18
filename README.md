@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHdlYWtnaWRlZnBpNTRibGI1aHpyZTVnNnE0emMwNmpuaHV1M2E4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4FQMuOKR6zQRO/giphy.gif" width="200" alt="Olá!"/>
+  <img src="https://media.giphy.com/media/2kYQJgzFoUdx2X6O9s/giphy.gif" width="300" alt="Data Science GIF"/>
 </p>
 
 <p align="center">
@@ -18,7 +18,16 @@
 
 ## 💼 Sobre Mim
 
-Sou **Cientista de Dados** com formação em Ciência da Computação e experiência prática em projetos de **Business Intelligence** e **Machine Learning**. Tenho atuado na coleta, limpeza e análise de grandes volumes de dados para órgãos públicos e empresas privadas, desenvolvendo modelos preditivos e visualizações interativas que orientam decisões estratégicas.
+Sou **Cientista de Dados** com sólida formação em Ciência da Computação e vivência em projetos estratégicos nos setores público e privado. Atuo no ciclo completo da análise de dados: desde a **engenharia de dados** (extração, transformação e carga – ETL), passando pela **exploração estatística e modelagem preditiva**, até a **entrega de dashboards interativos** e relatórios com insights acionáveis.
+
+Tenho experiência prática em:
+
+- Construção de pipelines inteligentes e automação de processos com Python;
+- Visualização de dados com Power BI, Streamlit e dashboards customizados;
+- Modelos supervisionados e não supervisionados de Machine Learning com foco em aplicação real;
+- Cloud computing (AWS, Oracle Cloud) e deploy de soluções escaláveis;
+- Integração entre dados relacionais (PostgreSQL, MySQL) e não relacionais (MongoDB);
+- Participação ativa em projetos acadêmicos e publicação científica com foco na realidade amazônica.
 
 ---
 
@@ -30,9 +39,9 @@ Sou **Cientista de Dados** com formação em Ciência da Computação e experiê
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="40" height="40"/>
+  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://numpy.org/images/logo.svg" alt="NumPy" width="40" height="40"/>
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
 </p>
 
@@ -58,4 +67,4 @@ Sou **Cientista de Dados** com formação em Ciência da Computação e experiê
 
 ## ⚡ Fato Curioso
 
-- Além de trabalhar com Ciência de Dados, toco **guitarra** e sou fã de **jogos online**.
+- Além de trabalhar com dados, sou guitarrista nas horas vagas e entusiasta de jogos competitivos online.
