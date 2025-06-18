@@ -58,4 +58,4 @@ Sou **Cientista de Dados** com formação em Ciência da Computação e experiê
 
 ## ⚡ Fato Curioso
 
-- Além de analisar dados, toco **guitarra** e sou fã de **jogos online**.
+- Além de trabalhar com Ciência de Dados, toco **guitarra** e sou fã de **jogos online**.
