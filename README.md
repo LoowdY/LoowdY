@@ -33,18 +33,18 @@ Tenho experiência prática em:
 - Participação em projetos de conscientização de segurança e campanhas internas.
 
 ---
-
 ## 🛠️ Ferramentas e Tecnologias
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://static.zaproxy.org/website/images/logo.svg" alt="OWASP ZAP" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/owaspzap" alt="OWASP ZAP" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/wazuh/wazuh-website/master/static/img/wazuh-logo.svg" alt="Wazuh" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/wazuh" alt="Wazuh" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/OISF/suricata/master/doc/logos/suricata.svg" alt="Suricata" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
 </p>
+
 
 ---
 
