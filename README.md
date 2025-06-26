@@ -53,7 +53,6 @@ Tenho experiência prática em:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LoowdY&show_icons=true&theme=radical" alt="Estatísticas do GitHub" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LoowdY&theme=radical" alt="Sequência de contribuições" width="400"/>
 </p>
 
 ---
