@@ -1,7 +1,7 @@
-<h2 align="center">Olá, sou o João Renan, Cientista de Dados 👋</h2>
+<h2 align="center">Olá, sou o João renan, Analista de Segurança da Informação 👋</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Data Science GIF"/>
+  <img src="https://media.giphy.com/media/1BdIPcHDF2mRY/giphy.gif" width="300" alt="Cybersecurity GIF"/>
 </p>
 
 <p align="center">
@@ -20,16 +20,17 @@
 
 ## 💼 Sobre Mim
 
-Sou **Cientista de Dados** com sólida formação em Ciência da Computação e vivência em projetos estratégicos nos setores público e privado. Atuo no ciclo completo da análise de dados: desde a **engenharia de dados** (extração, transformação e carga – ETL), passando pela **exploração estatística e modelagem preditiva**, até a **entrega de dashboards interativos** e relatórios com insights acionáveis.
+Sou **Analista de Segurança da Informação** com sólida formação em Ciência da Computação e experiência prática em proteger ativos digitais, desenvolver políticas de segurança e responder a incidentes cibernéticos. Atuo com foco em prevenção, detecção e resposta a ameaças, garantindo a integridade e a confidencialidade de sistemas críticos.
 
 Tenho experiência prática em:
 
-- Construção de pipelines inteligentes e automação de processos com Python;
-- Visualização de dados com Power BI, Streamlit e dashboards customizados;
-- Modelos supervisionados e não supervisionados de Machine Learning com foco em aplicação real;
-- Cloud computing (AWS, Oracle Cloud) e deploy de soluções escaláveis;
-- Integração entre dados relacionais (PostgreSQL, MySQL) e não relacionais (MongoDB);
-- Participação ativa em projetos acadêmicos e publicação científica com foco na realidade amazônica.
+- Gerenciamento de vulnerabilidades e testes de penetração;
+- Ferramentas SIEM, análise de logs e resposta a incidentes;
+- Políticas de segurança, LGPD, conformidade e gestão de riscos;
+- Automação de tarefas de segurança com Python e Bash;
+- Integração de ferramentas de monitoramento como Suricata, Snort e Wazuh;
+- Ambientes cloud (AWS, Oracle Cloud) com foco em hardening e IAM;
+- Participação em projetos de conscientização de segurança e campanhas internas.
 
 ---
 
@@ -37,14 +38,13 @@ Tenho experiência prática em:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://numpy.org/images/logo.svg" alt="NumPy" width="40" height="40"/>
-  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/owasp/owasp-icon.svg" alt="OWASP" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1280px-Bash_Logo_Colored.svg.png" alt="Bash" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Wazuh_Logo.png" alt="Wazuh" width="40" height="40"/>
+  <img src="https://www.suricata.io/assets/images/logos/suricata-logo.svg" alt="Suricata" width="40" height="40"/>
+  <img src="https://seeklogo.com/images/S/snort-logo-DA52E290D1-seeklogo.com.png" alt="Snort" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" height="40"/>
 </p>
 
 ---
@@ -66,7 +66,3 @@ Tenho experiência prática em:
 </p>
 
 ---
-
-## ⚡ Fato Curioso
-
-- Além de trabalhar com dados, sou guitarrista nas horas vagas e entusiasta de jogos competitivos online.
