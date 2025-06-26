@@ -37,14 +37,13 @@ Tenho experiência prática em:
 ## 🛠️ Ferramentas e Tecnologias
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/OWASP" alt="OWASP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/linux" alt="Linux" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/wazuh" alt="Wazuh" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/suricata" alt="Suricata" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/snort" alt="Snort" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://static.zaproxy.org/website/images/logo.svg" alt="OWASP ZAP" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/wazuh/wazuh-website/master/static/img/wazuh-logo.svg" alt="Wazuh" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/OISF/suricata/master/doc/logos/suricata.svg" alt="Suricata" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="AWS" width="40" height="40"/>
 </p>
 
 ---
