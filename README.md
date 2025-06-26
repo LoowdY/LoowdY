@@ -1,7 +1,7 @@
 <h2 align="center">Olá, sou o João renan, Analista de Segurança da Informação 👋</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/1BdIPcHDF2mRY/giphy.gif" width="300" alt="Cybersecurity GIF"/>
+  <img src="[https://media.giphy.com/media/1BdIPcHDF2mRY/giphy.gif](https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif)" width="300" alt="Cybersecurity GIF"/>
 </p>
 
 <p align="center">
