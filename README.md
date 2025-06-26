@@ -1,4 +1,4 @@
-<h2 align="center">Olá, sou o João renan, Analista de Segurança da Informação 👋</h2>
+<h2 align="center">Olá, sou o João Renan, Analista de Segurança da Informação 👋</h2>
 
 <p align="center">
   <img src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif" width="300" alt="Cybersecurity GIF"/>
@@ -38,13 +38,13 @@ Tenho experiência prática em:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/owasp/owasp-icon.svg" alt="OWASP" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1280px-Bash_Logo_Colored.svg.png" alt="Bash" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Wazuh_Logo.png" alt="Wazuh" width="40" height="40"/>
-  <img src="https://www.suricata.io/assets/images/logos/suricata-logo.svg" alt="Suricata" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/S/snort-logo-DA52E290D1-seeklogo.com.png" alt="Snort" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/OWASP" alt="OWASP" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/linux" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/wazuh" alt="Wazuh" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/suricata" alt="Suricata" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/snort" alt="Snort" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
 </p>
 
 ---
@@ -65,3 +65,7 @@ Tenho experiência prática em:
 </p>
 
 ---
+
+## ⚡ Fato Curioso
+
+- Sou apaixonado por segurança ofensiva e defensiva, adoro capturar bandeiras (CTFs) e explorar vulnerabilidades em ambientes controlados.
