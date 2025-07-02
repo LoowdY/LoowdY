@@ -1,7 +1,7 @@
-<h2 align="center">Olá, sou o João Renan, Analista de Segurança da Informação 👋</h2>
+<h2 align="center">Olá, sou o Fabio Oliveira, Desenvolvedor de Software 👨‍💻</h2>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif" width="300" alt="Cybersecurity GIF"/>
+  <img src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif" width="300" alt="Coding GIF"/>
 </p>
 
 <p align="center">
@@ -20,31 +20,31 @@
 
 ## 💼 Sobre Mim
 
-Sou **Analista de Segurança da Informação** com sólida formação em Ciência da Computação e experiência prática em proteger ativos digitais, desenvolver políticas de segurança e responder a incidentes cibernéticos. Atuo com foco em prevenção, detecção e resposta a ameaças, garantindo a integridade e a confidencialidade de sistemas críticos.
+Sou **Desenvolvedor de Software** com formação em Ciência da Computação e experiência prática em desenvolvimento de aplicações robustas e escaláveis. Atuo com backend e DevOps, aplicando boas práticas de engenharia de software, testes e automação.
 
-Tenho experiência prática em:
+Trabalho com foco em qualidade de código, arquitetura limpa e entrega contínua. Tenho conhecimento consolidado em:
 
-- Gerenciamento de vulnerabilidades e testes de penetração;
-- Ferramentas SIEM, análise de logs e resposta a incidentes;
-- Políticas de segurança, LGPD, conformidade e gestão de riscos;
-- Automação de tarefas de segurança com Python e Bash;
-- Integração de ferramentas de monitoramento como Suricata, Snort e Wazuh;
-- Ambientes cloud (AWS, Oracle Cloud) com foco em hardening e IAM;
-- Participação em projetos de conscientização de segurança e campanhas internas.
+- Desenvolvimento com **Python, Java, Spring Boot e Flask**;
+- Criação e manutenção de **APIs RESTful** e microsserviços;
+- Integração com bancos de dados relacionais (PostgreSQL, MySQL) e NoSQL (MongoDB);
+- Docker, Docker Compose, GitLab CI/CD, versionamento com Git;
+- Boas práticas de segurança, testes automatizados e pipelines de entrega;
+- Experiência com **Linux, Nginx, ambientes cloud e monitoramento com Grafana/Prometheus**.
 
 ---
+
 ## 🛠️ Ferramentas e Tecnologias
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/owaspzap" alt="OWASP ZAP" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/wazuh" alt="Wazuh" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/OISF/suricata/master/doc/logos/suricata.svg" alt="Suricata" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
 </p>
-
 
 ---
 
@@ -63,8 +63,3 @@ Tenho experiência prática em:
   <a href="mailto:jrenanlopes@gmail.com">jrenanlopes@gmail.com</a>
 </p>
 
----
-
-## ⚡ Fato Curioso
-
-- Sou apaixonado por segurança ofensiva e defensiva, adoro capturar bandeiras (CTFs) e explorar vulnerabilidades em ambientes controlados.
