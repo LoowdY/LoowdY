@@ -20,7 +20,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="60" alt="ansible logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="60" alt="aws logo" />
+  <img src="<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/c9e8faf8-980d-4023-b7a3-581118365828" />
+" height="60" alt="aws logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo" />
   <img width="12" />
