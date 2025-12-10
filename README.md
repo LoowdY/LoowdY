@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o João Renan!</h1>
-<h3 align="center">Data Scientist • IA Generativa (LangChain) • Automação Inteligente</h3>
+<h3 align="center">Data Scientist • IA Generativa </h3>
 
 <p align="center">
   <img src="https://media1.tenor.com/m/2uyENRmiUt0AAAAC/coding.gif" width="320" alt="Coding GIF"/>
@@ -66,4 +66,4 @@
 
 ## 🧠 Sobre Mim
 
-Sou **Cientista de Dados** e **Engenheiro/MLOps** com foco em **IA aplicada**, **IA Generativa** e **automação inteligente**. Tenho experiência no setor público e acadêmico, construindo soluções de ponta a ponta: ingestã
+Sou **Cientista de Dados** e GenAI Engineer com foco em Inteligência Artificial Aplicada. 
