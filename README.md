@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou o João Renan!</h1>
+<h1 align="center">Prazer👋, sou o João Renan!</h1>
 <h3 align="center">Data Scientist • IA Generativa </h3>
 
 <p align="center">
