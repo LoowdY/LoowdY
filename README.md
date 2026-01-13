@@ -1,5 +1,5 @@
 <h1 align="center">Prazer, João Renan!</h1>
-<h3 align="center">Cientista de Dados • IA Generativa </h3>
+<h3 align="center">Cientista de Dados • AI Engineering • IA Generativa </h3>
 
 <p align="center">
   <img src="https://media1.tenor.com/m/2uyENRmiUt0AAAAC/coding.gif" width="320" alt="Coding GIF"/>
